@@ -9,7 +9,7 @@ public class Quiz3 {
 
 	public static void main(String[] args) {
 		
-		Dog dog = new Dog("초코", "진돗개");
+		Dog dog = new Dog("밍고", "시고르자브종");
 		
 		// 재정의된 함수가 호출되어 강아지의 이름과 품종이 출력됨
 		System.out.println(dog.toString());
